@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.b72dc312.css",
+    "main.js": "/Travel/static/js/main.58b8c6f9.js",
+    "static/media/taj.jpg": "/Travel/static/media/taj.6fc6c484e1b947ec41b1.jpg",
+    "static/media/video (2).mp4": "/Travel/static/media/video (2).8871ed71e53c3ea16de6.mp4",
+    "static/media/imagee (2).jpg": "/Travel/static/media/imagee (2).89286be04695ac3e1503.jpg",
+    "static/media/video.mp4": "/Travel/static/media/video.477113418aacda9cae0b.mp4",
+    "static/media/imagee (4).jpg": "/Travel/static/media/imagee (4).e1d94d8a2549b1edbdd3.jpg",
+    "static/media/imagee (3).jpg": "/Travel/static/media/imagee (3).15b313c5f4aca812deb7.jpg",
+    "static/media/image (7).jpg": "/Travel/static/media/image (7).69db73451836cc0c122c.jpg",
+    "static/media/imagee (1).jpg": "/Travel/static/media/imagee (1).6f1606c3c98c11dd3fd6.jpg",
+    "static/media/image (8).jpg": "/Travel/static/media/image (8).84b9fd97979558bdb6ff.jpg",
+    "static/media/bodh.jpg": "/Travel/static/media/bodh.1620750fdb506f4bfb5b.jpg",
+    "static/media/ked.jpg": "/Travel/static/media/ked.6f35ddad532695cedbfa.jpg",
+    "static/media/kashi.jpg": "/Travel/static/media/kashi.635826be31deeb1afe93.jpg",
+    "static/media/Goa.jpg": "/Travel/static/media/Goa.e47dc453678c13999845.jpg",
+    "static/media/golden.jpg": "/Travel/static/media/golden.85a038336916d42ffbd7.jpg",
+    "index.html": "/Travel/index.html",
+    "main.b72dc312.css.map": "/Travel/static/css/main.b72dc312.css.map",
+    "main.58b8c6f9.js.map": "/Travel/static/js/main.58b8c6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b72dc312.css",
+    "static/js/main.58b8c6f9.js"
+  ]
+}
